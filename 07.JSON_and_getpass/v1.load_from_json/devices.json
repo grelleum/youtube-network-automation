@@ -1,0 +1,38 @@
+[
+    {
+        "username": "admin", 
+        "ip": "172.18.1.1", 
+        "password": "automate", 
+        "device_type": "cisco_ios"
+    }, 
+    {
+        "username": "admin", 
+        "ip": "172.18.1.2", 
+        "password": "automate", 
+        "device_type": "cisco_ios"
+    }, 
+    {
+        "username": "admin", 
+        "ip": "172.18.1.3", 
+        "password": "LETMEIN123", 
+        "device_type": "cisco_ios"
+    }, 
+    {
+        "username": "admin", 
+        "ip": "172.18.1.4", 
+        "password": "automate", 
+        "device_type": "cisco_ios"
+    }, 
+    {
+        "username": "admin", 
+        "ip": "172.18.1.11", 
+        "password": "automate", 
+        "device_type": "cisco_ios"
+    }, 
+    {
+        "username": "admin", 
+        "ip": "172.18.1.12", 
+        "password": "automate", 
+        "device_type": "cisco_ios"
+    }
+]
