@@ -1,0 +1,9 @@
+{
+  "Successful": [
+    "172.18.1.11"
+  ],
+  "Failed": [
+    "172.18.1.10: Connection to device timed-out: cisco_ios 172.18.1.10:22",
+    "172.18.1.12: Authentication failure: unable to connect cisco_ios 172.18.1.12:22\nAuthentication failed."
+  ]
+}
