@@ -1,0 +1,10 @@
+[
+    {
+        "ip": "172.18.1.11", 
+        "device_type": "cisco_ios"
+    }, 
+    {
+        "ip": "172.18.1.12", 
+        "device_type": "cisco_ios"
+    }
+]
