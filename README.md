@@ -2,7 +2,6 @@
 Files created in my YouTube series "Network Automation using Python and Netmiko."
 
 https://www.youtube.com/user/GPM365
-
 https://www.youtube.com/playlist?list=PLtw40n4ybvFoHoigW7IwITNilmZn2cfNv
 
 
