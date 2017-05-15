@@ -1,9 +1,8 @@
 # youtube-network-automation
 Files created in my YouTube series "Network Automation using Python and Netmiko."
 
-https://www.youtube.com/user/GPM365
-https://www.youtube.com/playlist?list=PLtw40n4ybvFoHoigW7IwITNilmZn2cfNv
-
+https://www.youtube.com/user/GPM365<br>
+https://www.youtube.com/playlist?list=PLtw40n4ybvFoHoigW7IwITNilmZn2cfNv<br>
 
 Videos 1, 2, and 3 do not contain any scritps.
 
